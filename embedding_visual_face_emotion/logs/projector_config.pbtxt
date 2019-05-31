@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "features:0"
+  metadata_path: "C:/Users/gagan/OneDrive/Desktop/embedding_visual/metadata_4_classes.tsv"
+  sprite {
+    image_path: "C:/Users/gagan/OneDrive/Desktop/embedding_visual/sprite_4_classes.png"
+    single_image_dim: 152
+    single_image_dim: 152
+  }
+}
